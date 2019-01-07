@@ -1,0 +1,20 @@
+Gerry Schenk
+gschenk@nait.ca
+378-5387
+DMIT 2504 - Android Development
+
+XML + Java
+Install Android Studio 3.1 in every machine that you're in.
+
+Basics of Android programming
+
+3-tier (n-tier)
+
+client             - server - data
+[emulator/device]
+can have its own database
+
+ideas for project:
+- cat cafe scheduler (appointment based) [customer side]
+- cat cafe admin side
+- cat game?
