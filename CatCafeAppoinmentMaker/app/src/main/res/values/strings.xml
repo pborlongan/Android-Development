@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Cat Cafe</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="login_email">Email</string>
+    <string name="login_password">Password</string>
+    <string name="login_login_button">login</string>
+    <string name="login_signup">No account yet? Create one</string>
+
+    <!-- Strings related to signup -->
+    <string name="signup_name">Name</string>
+    <string name="signup_email">Email</string>
+    <string name="signup_password">Password</string>
+    <string name="signup_phone">10-digit phone number</string>
+    <string name="signup_create_button">Create Account</string>
+    <string name="signup_login">Already a member? Login</string>
+
+    <!-- Strings related to signup -->
+    <string name="booking_welcome">Hi,</string>
+
+</resources>
